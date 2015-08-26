@@ -3,6 +3,7 @@
 
 ## Articles
 - https://the-pastry-box-project.net/anne-gibson/2014-july-31
+- http://www.imore.com/making-iphone-camera-work-blind
 
 ## Tools
 
