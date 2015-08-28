@@ -15,5 +15,8 @@
 
 ## Books
 
+## Other stuff
+- http://www.outlinenone.com/
+
 ## Libs and Snippets
 > Gotta find a better name.
