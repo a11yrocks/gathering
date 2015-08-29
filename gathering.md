@@ -9,6 +9,7 @@
 
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
+- [Heydon Pickering](http://www.heydonworks.com/)
 
 ## Talks
 
