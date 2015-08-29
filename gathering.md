@@ -19,6 +19,7 @@
 
 ## Other stuff
 - http://www.outlinenone.com/
+- http://www.paciellogroup.com/
 
 ## Libs and Snippets
 > Gotta find a better name.
