@@ -8,6 +8,7 @@
 - https://yatil.net/alice-bartlett-what-is-the-business-case-for-accessibility/ (?)
 - http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
 - https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/
+- http://arquiteturadeinformacao.com/acessibilidade/facebook-usa-machine-learning-para-ajudar-na-acessibilidade/
 
 ## Tools
 - https://github.com/rackt/react-a11y
