@@ -11,6 +11,7 @@
 - http://arquiteturadeinformacao.com/acessibilidade/facebook-usa-machine-learning-para-ajudar-na-acessibilidade/
 - https://medium.com/@marcobrunobr/meu-primo-%C3%A9-dalt%C3%B4nico-minha-prima-tem-dificuldades-motoras-e-eu-dificulto-a-vida-deles-na-web-d54e83c2c559#.6t1adx5p7
 - http://blog.w3c.br/novo-recurso-de-acessibilidade-do-twitter/
+- https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/#html5na
 
 ## Tools
 - https://github.com/rackt/react-a11y
