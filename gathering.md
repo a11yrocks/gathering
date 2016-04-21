@@ -14,19 +14,11 @@
 - https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/#html5na
 - http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 
-## Tools
-- https://github.com/rackt/react-a11y
-- http://allyjs.io/
-
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
 - [Heydon Pickering](http://www.heydonworks.com/)
 
-## Talks
-
-## Videos
-
-## Books
+## Media
 
 ## Other stuff
 - http://www.outlinenone.com/
@@ -34,7 +26,8 @@
 - [sass-a11y](https://github.com/at-import/sass-a11y)
 - [a11y Not](https://github.com/a11yNot/a11yNot.github.io)
 
-## Libs and Snippets
-> Gotta find a better name.
-
+## Utils
+> Tools, libs, components etc.
 - [react-autosuggest](https://github.com/moroshko/react-autosuggest) component
+- https://github.com/rackt/react-a11y
+- http://allyjs.io/
