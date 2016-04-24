@@ -13,6 +13,7 @@
 - http://blog.w3c.br/novo-recurso-de-acessibilidade-do-twitter/
 - https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/#html5na
 - http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
+- https://medium.com/@jonbmetz/accessibility-is-a-process-not-a-project-ce1c1cdc3aa7#.qcivvuafe
 
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
