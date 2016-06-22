@@ -14,7 +14,8 @@
 - https://www.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/#html5na
 - http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 - https://medium.com/@jonbmetz/accessibility-is-a-process-not-a-project-ce1c1cdc3aa7#.qcivvuafe
-
+- https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
+- 
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
 - [Heydon Pickering](http://www.heydonworks.com/)
