@@ -22,6 +22,7 @@
 - [Heydon Pickering](http://www.heydonworks.com/)
 - [Léonie Watson](http://tink.uk/)
 - [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
+- [Marco Zehe](https://twitter.com/MarcoZehe)
 
 ## Media
 
