@@ -20,6 +20,7 @@
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
 - [Heydon Pickering](http://www.heydonworks.com/)
+- [Léonie Watson](http://tink.uk/)
 
 ## Media
 
