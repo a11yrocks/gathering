@@ -16,6 +16,7 @@
 - http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 - https://medium.com/@jonbmetz/accessibility-is-a-process-not-a-project-ce1c1cdc3aa7#.qcivvuafe
 - https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
+- http://mashable.com/2016/07/10/apple-innovation-blind-engineer/#BkJGrYCr8Oqc
 
 ## People
 - [Steve Faulkner](https://github.com/stevefaulkner)
