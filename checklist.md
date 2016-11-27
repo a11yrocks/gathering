@@ -18,6 +18,7 @@ This is the checklist we use when analysing websites. You can use it in order to
 - Links have a focus state
 - Links are distinguishable from surrounding text and recognizable
 - Abbreviations and strange words are explained
+- Do not duplicate content of a link in the title attribute
 
 ## Colors
 - Foreground and background colors have sufficient (1) contrast
