@@ -18,7 +18,6 @@ This is the checklist we use when analysing websites. You can use it in order to
 - Links have a focus state
 - Links are distinguishable from surrounding text and recognizable
 - Abbreviations and strange words are explained
-- Do not duplicate content of a link in the title attribute
 
 ## Colors
 - Foreground and background colors have sufficient (1) contrast
@@ -31,6 +30,7 @@ This is the checklist we use when analysing websites. You can use it in order to
 - Heading tags (`h1`, `h2`) are used for titles
 - Emphasized or special text tags (5) are used where needed
 - List tags (`ol` and `ul`) are used where needed
+- Title attribute should be avoided (7)
 
 ## Tables
 - Row and column headers are recognizable and distinguishable
@@ -58,3 +58,5 @@ This is the checklist we use when analysing websites. You can use it in order to
 5: Examples: `<strong>`, `<code>`, `<abbr>`, `<blockquote>`.
 
 6: See [Skip Navigation technique](http://webaim.org/techniques/skipnav/).
+
+7: As many user agents do not expose the attribute in an accessible manner. See [Using the HTML title attribute](https://www.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/).
