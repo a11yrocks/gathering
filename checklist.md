@@ -25,10 +25,10 @@ This is the checklist we use when analysing websites. You can use it in order to
 -	Don’t use presentation that relies solely on colour
 
 ## Web Semantics
-- Language attributes (`<html lang="en">`, `<blockquote lang="en">`) are used where needed
-- ARIA Landmark Roles (3) are used to identify regions of a page
+- Language attributes (3) are used where needed
+- ARIA Landmark Roles (4) are used to identify regions of a page
 - Heading tags (`h1`, `h2`) are used for titles
-- Emphasized or special text tags (`<strong>`, `<code>`, `<abbr>`, `<blockquote>`) are used where needed
+- Emphasized or special text tags (5) are used where needed
 - List tags (`ol` and `ul`) are used where needed
 
 ## Tables
@@ -36,7 +36,7 @@ This is the checklist we use when analysing websites. You can use it in order to
 
 ## Usability
 - Event handlers are input device-independent
-- A "Skip to Content" (4) link is provided
+- A "Skip to Content" (6) link is provided
 - Content does not blink, flashes or move for more than 3 seconds or more than 3 times per second
 - Page functionality is available using a keyboard
 - Users are not interrupted while browsing
@@ -49,6 +49,10 @@ This is the checklist we use when analysing websites. You can use it in order to
 
 2: Test for Deuteranopia, Protanopia and Tritanopia.
 
-3: Read [HTML 5 and ARIA Landmarks](https://dequeuniversity.com/assets/html/jquery-summit/html5/slides/landmarks.html) for more information on roles.
+3: Examples: `<html lang="en">`, `<blockquote lang="en">`.
 
-4: See [Skip Navigation technique](http://webaim.org/techniques/skipnav/).
+4: Read [HTML 5 and ARIA Landmarks](https://dequeuniversity.com/assets/html/jquery-summit/html5/slides/landmarks.html) for more information on roles.
+
+5: Examples: (`<strong>`, `<code>`, `<abbr>`, `<blockquote>`)
+
+6: See [Skip Navigation technique](http://webaim.org/techniques/skipnav/).
