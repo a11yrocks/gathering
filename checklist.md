@@ -20,9 +20,9 @@ This is the checklist we use when analysing websites. You can use it in order to
 - Abbreviations and strange words are explained
 
 ## Colors
+-	Colors alone are not used to present essential information
 - Foreground and background colors have sufficient (1) contrast
 - Colors are tested for different types of color blindness (2)
--	Don’t use presentation that relies solely on colour
 
 ## Web Semantics
 - Language attributes (3) are used where needed
