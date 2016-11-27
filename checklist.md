@@ -43,7 +43,7 @@ This is the checklist we use when analysing websites. You can use it in order to
 - Users are not interrupted while browsing
 - Focus events follow a logical order
 - Instructions do not rely upon shape, size, or visual location ("right", "left")
-- Allow pinch-to-zoom
+- Pinch-to-zoom is allowed
 
 # References
 
