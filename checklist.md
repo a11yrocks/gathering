@@ -45,14 +45,14 @@ This is the checklist we use when analysing websites. You can use it in order to
 
 # References
 
-1: Contrast ratio between text and background is at least 4.5:1.
+1: Contrast ratio between text and background is at least 4.5:1. For checking, you can use a [constrast checker tool](http://contrastchecker.com/).
 
-2: Test for Deuteranopia, Protanopia and Tritanopia.
+2: Examples of color blindness are Deuteranopia, Protanopia and Tritanopia.
 
 3: Examples: `<html lang="en">`, `<blockquote lang="en">`.
 
 4: Read [HTML 5 and ARIA Landmarks](https://dequeuniversity.com/assets/html/jquery-summit/html5/slides/landmarks.html) for more information on roles.
 
-5: Examples: (`<strong>`, `<code>`, `<abbr>`, `<blockquote>`)
+5: Examples: `<strong>`, `<code>`, `<abbr>`, `<blockquote>`.
 
 6: See [Skip Navigation technique](http://webaim.org/techniques/skipnav/).
